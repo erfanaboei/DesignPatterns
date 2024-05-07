@@ -1,0 +1,15 @@
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Soldier-Example\bin\Debug\net5.0\FlyWeight-Soldier-Example.exe
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Soldier-Example\bin\Debug\net5.0\FlyWeight-Soldier-Example.deps.json
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Soldier-Example\bin\Debug\net5.0\FlyWeight-Soldier-Example.runtimeconfig.json
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Soldier-Example\bin\Debug\net5.0\FlyWeight-Soldier-Example.runtimeconfig.dev.json
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Soldier-Example\bin\Debug\net5.0\FlyWeight-Soldier-Example.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Soldier-Example\bin\Debug\net5.0\ref\FlyWeight-Soldier-Example.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Soldier-Example\bin\Debug\net5.0\FlyWeight-Soldier-Example.pdb
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Soldier-Example\obj\Debug\net5.0\FlyWeight-Soldier-Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Soldier-Example\obj\Debug\net5.0\FlyWeight-Soldier-Example.AssemblyInfoInputs.cache
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Soldier-Example\obj\Debug\net5.0\FlyWeight-Soldier-Example.AssemblyInfo.cs
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Soldier-Example\obj\Debug\net5.0\FlyWeight-Soldier-Example.csproj.CoreCompileInputs.cache
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Soldier-Example\obj\Debug\net5.0\FlyWeight-Soldier-Example.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Soldier-Example\obj\Debug\net5.0\ref\FlyWeight-Soldier-Example.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Soldier-Example\obj\Debug\net5.0\FlyWeight-Soldier-Example.pdb
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Soldier-Example\obj\Debug\net5.0\FlyWeight-Soldier-Example.genruntimeconfig.cache

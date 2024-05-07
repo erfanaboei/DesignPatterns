@@ -1,0 +1,15 @@
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Object-Adapter-Console\bin\Debug\net5.0\Object-Adapter-Console.exe
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Object-Adapter-Console\bin\Debug\net5.0\Object-Adapter-Console.deps.json
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Object-Adapter-Console\bin\Debug\net5.0\Object-Adapter-Console.runtimeconfig.json
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Object-Adapter-Console\bin\Debug\net5.0\Object-Adapter-Console.runtimeconfig.dev.json
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Object-Adapter-Console\bin\Debug\net5.0\Object-Adapter-Console.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Object-Adapter-Console\bin\Debug\net5.0\ref\Object-Adapter-Console.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Object-Adapter-Console\bin\Debug\net5.0\Object-Adapter-Console.pdb
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Object-Adapter-Console\obj\Debug\net5.0\Object-Adapter-Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Object-Adapter-Console\obj\Debug\net5.0\Object-Adapter-Console.AssemblyInfoInputs.cache
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Object-Adapter-Console\obj\Debug\net5.0\Object-Adapter-Console.AssemblyInfo.cs
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Object-Adapter-Console\obj\Debug\net5.0\Object-Adapter-Console.csproj.CoreCompileInputs.cache
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Object-Adapter-Console\obj\Debug\net5.0\Object-Adapter-Console.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Object-Adapter-Console\obj\Debug\net5.0\ref\Object-Adapter-Console.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Object-Adapter-Console\obj\Debug\net5.0\Object-Adapter-Console.pdb
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Object-Adapter-Console\obj\Debug\net5.0\Object-Adapter-Console.genruntimeconfig.cache

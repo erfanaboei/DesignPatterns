@@ -1,0 +1,15 @@
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Console\bin\Debug\net5.0\FlyWeight-Console.exe
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Console\bin\Debug\net5.0\FlyWeight-Console.deps.json
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Console\bin\Debug\net5.0\FlyWeight-Console.runtimeconfig.json
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Console\bin\Debug\net5.0\FlyWeight-Console.runtimeconfig.dev.json
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Console\bin\Debug\net5.0\FlyWeight-Console.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Console\bin\Debug\net5.0\ref\FlyWeight-Console.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Console\bin\Debug\net5.0\FlyWeight-Console.pdb
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Console\obj\Debug\net5.0\FlyWeight-Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Console\obj\Debug\net5.0\FlyWeight-Console.AssemblyInfoInputs.cache
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Console\obj\Debug\net5.0\FlyWeight-Console.AssemblyInfo.cs
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Console\obj\Debug\net5.0\FlyWeight-Console.csproj.CoreCompileInputs.cache
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Console\obj\Debug\net5.0\FlyWeight-Console.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Console\obj\Debug\net5.0\ref\FlyWeight-Console.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Console\obj\Debug\net5.0\FlyWeight-Console.pdb
+D:\TotorialProjects\DesignPatterns\DesignPatterns\FlyWeight-Console\obj\Debug\net5.0\FlyWeight-Console.genruntimeconfig.cache

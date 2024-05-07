@@ -1,0 +1,15 @@
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Composite-Computer-Sample\bin\Debug\net5.0\Composite-Computer-Sample.exe
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Composite-Computer-Sample\bin\Debug\net5.0\Composite-Computer-Sample.deps.json
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Composite-Computer-Sample\bin\Debug\net5.0\Composite-Computer-Sample.runtimeconfig.json
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Composite-Computer-Sample\bin\Debug\net5.0\Composite-Computer-Sample.runtimeconfig.dev.json
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Composite-Computer-Sample\bin\Debug\net5.0\Composite-Computer-Sample.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Composite-Computer-Sample\bin\Debug\net5.0\ref\Composite-Computer-Sample.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Composite-Computer-Sample\bin\Debug\net5.0\Composite-Computer-Sample.pdb
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Composite-Computer-Sample\obj\Debug\net5.0\Composite-Computer-Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Composite-Computer-Sample\obj\Debug\net5.0\Composite-Computer-Sample.AssemblyInfoInputs.cache
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Composite-Computer-Sample\obj\Debug\net5.0\Composite-Computer-Sample.AssemblyInfo.cs
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Composite-Computer-Sample\obj\Debug\net5.0\Composite-Computer-Sample.csproj.CoreCompileInputs.cache
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Composite-Computer-Sample\obj\Debug\net5.0\Composite-Computer-Sample.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Composite-Computer-Sample\obj\Debug\net5.0\ref\Composite-Computer-Sample.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Composite-Computer-Sample\obj\Debug\net5.0\Composite-Computer-Sample.pdb
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Composite-Computer-Sample\obj\Debug\net5.0\Composite-Computer-Sample.genruntimeconfig.cache

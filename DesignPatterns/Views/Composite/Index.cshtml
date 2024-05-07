@@ -1,0 +1,10 @@
+﻿@model string;
+@{
+    Layout = "_Layout";
+}
+
+<form asp-action="AddCategories" method="post">
+    <button type="submit">Add Categories</button>
+</form>
+
+@Html.Raw(Model)

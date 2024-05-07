@@ -1,0 +1,16 @@
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Strategy-Console\bin\Debug\net5.0\Strategy-Console.exe
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Strategy-Console\bin\Debug\net5.0\Strategy-Console.deps.json
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Strategy-Console\bin\Debug\net5.0\Strategy-Console.runtimeconfig.json
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Strategy-Console\bin\Debug\net5.0\Strategy-Console.runtimeconfig.dev.json
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Strategy-Console\bin\Debug\net5.0\Strategy-Console.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Strategy-Console\bin\Debug\net5.0\ref\Strategy-Console.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Strategy-Console\bin\Debug\net5.0\Strategy-Console.pdb
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Strategy-Console\obj\Debug\net5.0\Strategy-Console.csproj.AssemblyReference.cache
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Strategy-Console\obj\Debug\net5.0\Strategy-Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Strategy-Console\obj\Debug\net5.0\Strategy-Console.AssemblyInfoInputs.cache
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Strategy-Console\obj\Debug\net5.0\Strategy-Console.AssemblyInfo.cs
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Strategy-Console\obj\Debug\net5.0\Strategy-Console.csproj.CoreCompileInputs.cache
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Strategy-Console\obj\Debug\net5.0\Strategy-Console.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Strategy-Console\obj\Debug\net5.0\ref\Strategy-Console.dll
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Strategy-Console\obj\Debug\net5.0\Strategy-Console.pdb
+D:\TotorialProjects\DesignPatterns\DesignPatterns\Strategy-Console\obj\Debug\net5.0\Strategy-Console.genruntimeconfig.cache
